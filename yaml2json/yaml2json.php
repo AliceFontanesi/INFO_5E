@@ -1,5 +1,5 @@
 <?php
-require 'vendor/autoload.php'; // Assicurati di avere la libreria Symfony YAML installata
+require 'vendor/autoload.php'; 
 
 use Symfony\Component\Yaml\Yaml;
 
